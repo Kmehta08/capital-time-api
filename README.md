@@ -1,6 +1,6 @@
 # Capital Time API
 
-Simple falsk based API deployed on GCP that returns the current local time and UTC offset for a given capital city
+Simple flask based API deployed on GCP that returns the current local time and UTC offset for a given capital city
 
 # Features
 
